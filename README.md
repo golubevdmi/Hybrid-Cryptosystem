@@ -56,10 +56,10 @@ A public key cryptographic algorithm based on the computational complexity of th
 2. Their product is calculated n = p and q, which is called a module.
 3. Calculate the value of the Euler function of the number n:
 4. An integer e is selected: 1 <е <f (n) is coprime with the value of the function f (n)
-  1. The number e is called the open exponent.
-  2. Usually, e is taken as prime numbers containing a small number of single bits in a binary notation, for example, farm numbers: 17, 257 or 65537, since in this case the time required for encryption using fast exponentiation will be less.
-  3. Too small e values, such as 3, can potentially weaken the security of an RSA circuit.
+  + The number e is called the open exponent.
+  + Usually, e is taken as prime numbers containing a small number of single bits in a binary notation, for example, farm numbers: 17, 257 or 65537, since in this case the time required for encryption using fast exponentiation will be less.
+  + Too small e values, such as 3, can potentially weaken the security of an RSA circuit.
 5. Calculates the number d, multiplicatively inverse to the number e modulo.
-  1. The number d is called the secret exponent. It is usually calculated using the advanced Euclidean algorithm.
+  + The number d is called the secret exponent. It is usually calculated using the advanced Euclidean algorithm.
 6. Pair (e, n) is published as RSA public key
 7. The pair (d, n) plays the role of the RSA private key and is kept secret.
