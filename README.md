@@ -7,11 +7,11 @@ This project implements a combined message encryption system.
 
 ## Work screenshots
 
-![image](https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/begin.png)
+![begin](https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/begin.png)
 
-![image]https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/encrypt.png)
+![encrypt]https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/encrypt.png)
 
-![image]https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/decrypt.png)
+![decrypt]https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/decrypt.png)
 
 ## Hybrid Cryptosystem Example
 
