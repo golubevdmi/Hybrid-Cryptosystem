@@ -1,5 +1,4 @@
 # Hybrid-Cryptosystem
-RC4, RSA
 
 ## About
 
@@ -7,11 +6,11 @@ This project implements a combined message encryption system.
 
 ## Work screenshots
 
-![alt text](https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/begin.png?raw=true "Title")
+![begin](screen/begin.png?raw=true "Title")
 
-![encrypt]https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/encrypt.png)
+![encrypt](screen/encrypt.png)
 
-![decrypt]https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/decrypt.png)
+![decrypt](https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/decrypt.png)
 
 ## Hybrid Cryptosystem Example
 
