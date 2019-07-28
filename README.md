@@ -33,3 +33,13 @@ Stream cipher widely used in various information security systems in computer ne
 
 1. no random or related keys are used;
 2. one keystream is used twice.
+
+### Encryption algorithm
+
+1. The function generates a sequence of bits.
+2. Then the sequence of bits through the operation "modulo two summation" (xor) is combined with clear text. The result is a cryptogram
+
+### Decryption algorithm.
+
+1. The key bit stream (key stream) is recreated (regenerated).
+2. The key bitstream is added using the xor encryption operation. Due to the properties of the operation "xor", the output is the original (unencrypted) text.
