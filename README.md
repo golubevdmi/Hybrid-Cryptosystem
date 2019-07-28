@@ -7,7 +7,7 @@ This project implements a combined message encryption system.
 
 ## Work screenshots
 
-![begin](https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/begin.png)
+![](https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/begin.png)
 
 ![encrypt]https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/encrypt.png)
 
