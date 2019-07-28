@@ -1,11 +1,23 @@
 # Hybrid-Cryptosystem
-RC4, RSA
 
 ## About
 
 This project implements a combined message encryption system.
 
 ## Work screenshots
+
+### Begin
+
+![begin](screen/begin.png?raw=true "Title")
+
+### Encrypt
+
+![encrypt](screen/encrypt.png)
+
+### Decrypt
+
+![decrypt](screen/decrypt.png)
+
 
 ## Hybrid Cryptosystem Example
 
