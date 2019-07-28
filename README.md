@@ -20,7 +20,7 @@ This project implements a combined message encryption system.
 1. Uses her private key to decrypt the symmetric key contained in the key encapsulation segment.
 2. Uses this symmetric key to decrypt the message contained in the data encapsulation segment.
 
-## RC4 (Rivest cipher 4 or Ron’s code)
+## RC4 (Rivest cipher 4 or Ron’s code). Symmetric encryption
 
 Stream cipher widely used in various information security systems in computer networks (for example, in SSL and TLS protocols, wireless network security algorithms WEP and WPA).
 
