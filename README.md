@@ -10,7 +10,7 @@ This project implements a combined message encryption system.
 
 ![encrypt](screen/encrypt.png)
 
-![decrypt](https://github.com/golubevdmi/Hybrid-Cryptosystem/tree/master/screen/decrypt.png)
+![decrypt](screen/decrypt.png)
 
 ## Hybrid Cryptosystem Example
 
