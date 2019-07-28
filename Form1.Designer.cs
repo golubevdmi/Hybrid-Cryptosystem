@@ -168,7 +168,7 @@
             this.label_D.Name = "label_D";
             this.label_D.Size = new System.Drawing.Size(156, 18);
             this.label_D.TabIndex = 12;
-            this.label_D.Text = "D (Ptivate key):";
+            this.label_D.Text = "D (Secret exponent):";
             // 
             // button_Encoder
             // 
@@ -215,7 +215,7 @@
             this.label_SymmetricKey.Name = "label_SymmetricKey";
             this.label_SymmetricKey.Size = new System.Drawing.Size(202, 31);
             this.label_SymmetricKey.TabIndex = 17;
-            this.label_SymmetricKey.Text = "Symetrical key";
+            this.label_SymmetricKey.Text = "Symmetrical key";
             this.label_SymmetricKey.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox_OriginalSymmetricKey
@@ -308,7 +308,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(202, 23);
             this.label4.TabIndex = 29;
-            this.label4.Text = "Decrypted symetrical key (RSA)";
+            this.label4.Text = "Decrypted symmetrical key (RSA)";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label5
@@ -319,7 +319,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(202, 31);
             this.label5.TabIndex = 30;
-            this.label5.Text = "Encrypted Symetrical key (RSA)";
+            this.label5.Text = "Encrypted Symmetrical key (RSA)";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_encrypt_message
